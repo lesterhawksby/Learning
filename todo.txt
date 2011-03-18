@@ -9,3 +9,9 @@ Acquire launcher
 Design moonbase
 Train lunonauts
 
+Mars project:
+Build giant lunar launch facility
+Send rocket parts to moon
+Assemble rocket
+Point at Mars
+Enjoy lithobraking
